@@ -1,6 +1,0 @@
-Config = {
-    namescript = "Quang Lã" 
-    logoscript = "126372978979509" 
-    tacgia = "Quang Lã”
-}
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/BapRed/main/BapRedHub"))()
